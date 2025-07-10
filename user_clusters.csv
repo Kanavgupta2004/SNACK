@@ -1,0 +1,201 @@
+user_id,recency,frequency,monetary,cluster,segment
+user_1,16,7,68.03999999999999,1,New/Light Users
+user_10,11,16,285.84,3,Churn Risk
+user_100,2,11,74.26,1,New/Light Users
+user_101,6,17,445.5345,2,VIPs / Power Users
+user_102,13,13,361.75,3,Churn Risk
+user_103,0,13,96.06,3,Churn Risk
+user_104,22,8,283.26,0,Core Regulars
+user_105,0,18,838.74,2,VIPs / Power Users
+user_106,0,17,580.9200000000001,2,VIPs / Power Users
+user_107,4,8,79.82,1,New/Light Users
+user_108,0,6,37.349999999999994,1,New/Light Users
+user_109,1,12,537.6700000000001,2,VIPs / Power Users
+user_11,6,13,186.62,3,Churn Risk
+user_110,4,18,441.15,2,VIPs / Power Users
+user_111,3,17,133.72,3,Churn Risk
+user_112,0,6,66.48,1,New/Light Users
+user_113,1,12,366.46000000000004,3,Churn Risk
+user_114,3,8,99.81,1,New/Light Users
+user_115,33,6,262.45,0,Core Regulars
+user_116,1,19,166.52,3,Churn Risk
+user_117,3,16,324.82000000000005,3,Churn Risk
+user_118,8,13,297.57,3,Churn Risk
+user_119,12,11,378.65999999999997,3,Churn Risk
+user_12,6,16,380.61,3,Churn Risk
+user_120,0,7,206.27,1,New/Light Users
+user_121,8,18,205.27,3,Churn Risk
+user_122,21,9,279.36,0,Core Regulars
+user_123,0,5,136.07999999999998,1,New/Light Users
+user_124,2,16,586.38,2,VIPs / Power Users
+user_125,6,7,349.44000000000005,1,New/Light Users
+user_126,4,15,337.96,3,Churn Risk
+user_127,9,11,103.13,1,New/Light Users
+user_128,4,12,370.87,3,Churn Risk
+user_129,0,12,170.3945,3,Churn Risk
+user_13,12,9,136.12,1,New/Light Users
+user_130,0,5,90.78,1,New/Light Users
+user_131,8,11,410.64000000000004,3,Churn Risk
+user_132,40,6,28.41,0,Core Regulars
+user_133,28,7,45.71,0,Core Regulars
+user_134,2,14,189.02,3,Churn Risk
+user_135,45,6,66.66,0,Core Regulars
+user_136,1,18,347.13,3,Churn Risk
+user_137,5,14,166.61,3,Churn Risk
+user_138,4,16,121.01,3,Churn Risk
+user_139,0,14,103.49,3,Churn Risk
+user_14,11,15,576.976,2,VIPs / Power Users
+user_140,2,19,526.7900000000001,2,VIPs / Power Users
+user_141,38,8,320.0,0,Core Regulars
+user_142,3,16,158.32,3,Churn Risk
+user_143,28,10,325.7,0,Core Regulars
+user_144,20,15,397.23,3,Churn Risk
+user_145,3,15,192.57,3,Churn Risk
+user_146,13,7,135.01,1,New/Light Users
+user_147,16,13,271.02,3,Churn Risk
+user_148,4,16,403.2,3,Churn Risk
+user_149,48,7,197.64,0,Core Regulars
+user_15,0,9,281.84000000000003,1,New/Light Users
+user_150,1,16,463.38,2,VIPs / Power Users
+user_151,4,14,227.62,3,Churn Risk
+user_152,10,15,339.5,3,Churn Risk
+user_153,11,12,191.32999999999998,3,Churn Risk
+user_154,3,18,500.116,2,VIPs / Power Users
+user_155,1,16,218.2445,3,Churn Risk
+user_156,30,6,63.48,0,Core Regulars
+user_157,9,10,115.58,1,New/Light Users
+user_158,0,11,419.28000000000003,3,Churn Risk
+user_159,3,13,143.73000000000002,3,Churn Risk
+user_16,11,5,108.57,1,New/Light Users
+user_160,28,13,404.83000000000004,0,Core Regulars
+user_161,5,9,382.19,1,New/Light Users
+user_162,3,7,162.01,1,New/Light Users
+user_163,47,16,516.65,0,Core Regulars
+user_164,12,15,208.96,3,Churn Risk
+user_165,7,13,239.1215,3,Churn Risk
+user_166,3,7,54.870000000000005,1,New/Light Users
+user_167,4,16,151.59,3,Churn Risk
+user_168,10,16,609.83,2,VIPs / Power Users
+user_169,4,11,142.51,1,New/Light Users
+user_17,1,15,149.88,3,Churn Risk
+user_170,22,14,238.82999999999998,3,Churn Risk
+user_171,11,8,59.21,1,New/Light Users
+user_172,0,16,177.91,3,Churn Risk
+user_173,6,11,143.98,1,New/Light Users
+user_174,49,5,41.910000000000004,0,Core Regulars
+user_175,35,8,103.44,0,Core Regulars
+user_176,1,10,138.76,1,New/Light Users
+user_177,26,10,243.44000000000003,0,Core Regulars
+user_178,6,12,303.71,3,Churn Risk
+user_179,5,12,292.6826,3,Churn Risk
+user_18,6,10,153.503,1,New/Light Users
+user_180,5,14,497.28999999999996,2,VIPs / Power Users
+user_181,15,18,291.2,3,Churn Risk
+user_182,7,6,110.9715,1,New/Light Users
+user_183,1,19,697.3399999999999,2,VIPs / Power Users
+user_184,23,9,115.81,0,Core Regulars
+user_185,9,12,224.31,3,Churn Risk
+user_186,13,10,124.96000000000001,1,New/Light Users
+user_187,38,7,66.82000000000001,0,Core Regulars
+user_188,3,16,709.87,2,VIPs / Power Users
+user_189,1,11,107.52000000000001,1,New/Light Users
+user_19,34,11,237.6,0,Core Regulars
+user_190,6,13,117.61,3,Churn Risk
+user_191,7,11,159.77,1,New/Light Users
+user_192,10,12,216.66,3,Churn Risk
+user_193,6,16,362.73,3,Churn Risk
+user_194,26,6,586.5,0,Core Regulars
+user_195,12,8,362.01000000000005,1,New/Light Users
+user_196,17,14,315.36,3,Churn Risk
+user_197,4,7,49.55,1,New/Light Users
+user_198,3,15,322.11,3,Churn Risk
+user_199,10,11,271.58000000000004,3,Churn Risk
+user_2,11,7,62.18,1,New/Light Users
+user_20,7,17,320.42,3,Churn Risk
+user_200,6,16,365.2626,3,Churn Risk
+user_21,7,7,103.44,1,New/Light Users
+user_22,6,8,209.45999999999998,1,New/Light Users
+user_23,23,5,99.88999999999999,0,Core Regulars
+user_24,7,5,55.85,1,New/Light Users
+user_25,48,6,78.22,0,Core Regulars
+user_26,3,10,308.7,3,Churn Risk
+user_27,11,16,200.24,3,Churn Risk
+user_28,33,7,177.91,0,Core Regulars
+user_29,1,19,384.48,3,Churn Risk
+user_3,13,16,762.38,2,VIPs / Power Users
+user_30,31,5,30.67,0,Core Regulars
+user_31,0,8,264.38,1,New/Light Users
+user_32,22,11,427.63,0,Core Regulars
+user_33,12,13,399.34450000000004,3,Churn Risk
+user_34,5,9,132.26,1,New/Light Users
+user_35,9,11,481.15000000000003,2,VIPs / Power Users
+user_36,0,11,796.96,2,VIPs / Power Users
+user_37,3,14,117.093,3,Churn Risk
+user_38,2,18,174.03,3,Churn Risk
+user_39,5,15,139.96,3,Churn Risk
+user_4,0,15,162.58,3,Churn Risk
+user_40,28,11,208.81,0,Core Regulars
+user_41,0,10,129.62,1,New/Light Users
+user_42,2,9,494.78,2,VIPs / Power Users
+user_43,1,17,305.19,3,Churn Risk
+user_44,4,16,266.06,3,Churn Risk
+user_45,35,7,83.52,0,Core Regulars
+user_46,1,17,398.32,3,Churn Risk
+user_47,2,7,81.45,1,New/Light Users
+user_48,8,17,153.64,3,Churn Risk
+user_49,7,6,87.97999999999999,1,New/Light Users
+user_5,3,7,60.68,1,New/Light Users
+user_50,37,6,70.95,0,Core Regulars
+user_51,3,17,253.632,3,Churn Risk
+user_52,8,10,86.31,1,New/Light Users
+user_53,0,16,330.78,3,Churn Risk
+user_54,8,16,441.21,2,VIPs / Power Users
+user_55,2,16,349.27,3,Churn Risk
+user_56,0,9,65.46000000000001,1,New/Light Users
+user_57,2,17,227.8,3,Churn Risk
+user_58,5,17,209.42000000000002,3,Churn Risk
+user_59,22,6,43.003,0,Core Regulars
+user_6,3,14,299.61,3,Churn Risk
+user_60,9,17,550.4200000000001,2,VIPs / Power Users
+user_61,18,14,537.5468000000001,2,VIPs / Power Users
+user_62,5,13,95.15,3,Churn Risk
+user_63,0,13,288.81,3,Churn Risk
+user_64,5,16,351.41,3,Churn Risk
+user_65,1,18,757.8100000000001,2,VIPs / Power Users
+user_66,5,14,215.83,3,Churn Risk
+user_67,2,18,741.11,2,VIPs / Power Users
+user_68,18,18,734.01,2,VIPs / Power Users
+user_69,6,8,345.59,1,New/Light Users
+user_7,19,14,595.11,2,VIPs / Power Users
+user_70,1,17,349.91999999999996,3,Churn Risk
+user_71,0,10,86.57,1,New/Light Users
+user_72,11,9,134.8,1,New/Light Users
+user_73,38,5,195.28,0,Core Regulars
+user_74,19,11,373.59999999999997,3,Churn Risk
+user_75,14,10,144.65,1,New/Light Users
+user_76,28,6,41.440000000000005,0,Core Regulars
+user_77,14,7,96.59,1,New/Light Users
+user_78,5,13,202.82000000000002,3,Churn Risk
+user_79,19,7,85.54,1,New/Light Users
+user_8,35,7,228.16,0,Core Regulars
+user_80,7,9,102.8068,1,New/Light Users
+user_81,3,9,125.8,1,New/Light Users
+user_82,14,15,202.5615,3,Churn Risk
+user_83,3,5,43.660000000000004,1,New/Light Users
+user_84,24,5,41.96,0,Core Regulars
+user_85,18,6,127.33,1,New/Light Users
+user_86,9,10,387.17,3,Churn Risk
+user_87,7,5,34.39,1,New/Light Users
+user_88,7,9,184.5,1,New/Light Users
+user_89,8,12,150.3715,3,Churn Risk
+user_9,4,18,292.903,3,Churn Risk
+user_90,13,9,75.52,1,New/Light Users
+user_91,9,10,53.7,1,New/Light Users
+user_92,7,15,252.47,3,Churn Risk
+user_93,7,11,386.9,3,Churn Risk
+user_94,6,6,71.96000000000001,1,New/Light Users
+user_95,17,6,39.9615,1,New/Light Users
+user_96,0,14,527.59,2,VIPs / Power Users
+user_97,2,18,352.46999999999997,3,Churn Risk
+user_98,12,12,327.78,3,Churn Risk
+user_99,1,7,74.23,1,New/Light Users
